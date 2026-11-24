@@ -1,0 +1,24 @@
+{
+  "name": "local-ai-react",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Zero-backend React + TypeScript hook and console for Chrome Built-in AI (Prompt API) with streaming responses and automatic capability detection.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.460.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  }
+}
